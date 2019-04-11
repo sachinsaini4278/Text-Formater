@@ -13,7 +13,7 @@ A tool for perform some operation on text data in Django Backend.
 
 5)Numbers Remove
 
-6)Stop words Remove
+
 
 
 # Requirements
